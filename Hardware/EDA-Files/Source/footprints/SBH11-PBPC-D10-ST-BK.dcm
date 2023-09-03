@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SBH11-PBPC-D10-ST-BK
+D CONN HEADER VERT 20POS 2.54MM
+K
+F https://s3.amazonaws.com/catalogspreads-pdf/PAGE122%20.100%20SBH11%20SERIES%20MALE%20BOX%20HDR%20ST%20RA%20SMT.pdf
+$ENDCMP
+#
+#End Doc Library

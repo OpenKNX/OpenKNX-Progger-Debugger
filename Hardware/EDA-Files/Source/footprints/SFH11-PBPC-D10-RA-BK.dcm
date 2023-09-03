@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SFH11-PBPC-D10-RA-BK
+D CONN HEADR FMALE 20PS .1" R/A AU
+K
+F https://s3.amazonaws.com/catalogspreads-pdf/PAGE123%20.100%20SFH11%20SERIES%20FEMALE%20HDR%20ST%20RA.pdf
+$ENDCMP
+#
+#End Doc Library

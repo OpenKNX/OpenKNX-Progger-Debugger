@@ -1,0 +1,17 @@
+Comment,Designator,Footprint,LCSC
+USB_B_Micro,J2,USB_Micro-B_JING_C10418,C10418
+0603 LED RED 5V,D2,LED_0402_1005Metric,C130719
+0603 LED GREEN 3V3,D1,LED_0402_1005Metric,C130722
+MCP1700T-3302E_TT,U1,SOT-23-3,C150715
+1uF,"C1,C2",C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,C15849
+68R_0603_0.1%,R1,R_0201_0603Metric,C177396
+B5819W,D3,D_SOD-123,C8598
+BOOTSEL,SW2,SW_Push_Xunpu_TS-1089S_Handsolder,
+RESET,SW1,SW_Push_Xunpu_TS-1089S_Handsolder,
+OpenKNX Debug Only (KNeoPiX),J10,JST_SHL_SM05B-SHLS-TF_1x05-1MP_P1.00mm_Horizontal_Vertical,
+220R_0603_0.1%,R2,R_0201_0603Metric,
+MountingHole,H1,MountingHole_2.1mm,
+MountingHole,H2,MountingHole_2.1mm,
+Conn_01x08,J14,JUMPER_SMD_1x8_CUTS,
+OpenKNX Progger / Debugger Connection,J9,JST_SHL_SM08B-SHLS-TF_1x08-1MP_P1.00mm_Horizontal_Vertical,
+Conn_01x08,J13,JUMPER_SMD_1x8_NoCut,

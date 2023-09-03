@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
+%TF.CreationDate,2023-09-01T12:42:24+02:00*%
+%TF.ProjectId,OpenKNX-Progger_Debugger,4f70656e-4b4e-4582-9d50-726f67676572,1.0*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Other,Comment*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-09-01 12:42:24*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.150000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H1*%
+X81339574Y-64516472D02*
+G75*
+G03*
+X81339574Y-64516472I-2100000J0D01*
+G01*
+%TO.C,H2*%
+X131199574Y-52746472D02*
+G75*
+G03*
+X131199574Y-52746472I-2100000J0D01*
+G01*
+%TD*%
+M02*
